@@ -1,0 +1,11 @@
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\bin\Debug\20.exe.config
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\bin\Debug\20.exe
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\bin\Debug\20.pdb
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\20.csproj.AssemblyReference.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\_20.Form1.resources
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\_20.Properties.Resources.resources
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\20.csproj.GenerateResource.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\20.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\20.exe
+C:\Users\Alisa\OneDrive\Документы\.лабы\ЭВМ C#\form github\20\20\obj\Debug\20.pdb
